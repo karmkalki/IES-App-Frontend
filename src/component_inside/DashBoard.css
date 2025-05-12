@@ -1,0 +1,18 @@
+.Card-Details{
+     display: flex;
+    
+}
+.Personal-Details{
+     height: 30px;
+     width: 300px;
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    padding-left: 45px;
+    padding-top: 5px;
+  
+}
+.form-comp{
+     height: 200px;
+     width: 400px;
+}

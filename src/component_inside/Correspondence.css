@@ -1,0 +1,29 @@
+.corrSumm  {
+     
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 50px;
+     
+     
+}
+.corrSumm table{
+     width: 900px;
+     border: 2px solid black
+     ;
+}
+.corrSumm table th{
+     border: 1px solid black;
+     text-align: center;
+     background-color: bisque;
+}
+.corrSumm table td{
+    border: 1px solid black;
+    text-align: center;
+}
+.corrContent{
+    height: 500px;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 80px;
+    background-color: white;
+}

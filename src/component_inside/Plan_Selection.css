@@ -1,0 +1,44 @@
+.income-form{
+         
+    height: 400px;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 80px;
+    background-color: white;
+}
+.plan-form{
+
+margin-top: 30px;
+
+
+}
+.regis_label{
+ margin-top: 15px;
+margin-bottom: 5px;
+height: 20px;
+font-size: 20px;
+margin-left: 60px ;
+color: black;
+font-weight: 500;
+
+
+}
+
+
+.inpR{
+    width: 390px;
+    margin-left: 60px;
+    background-color: white;
+    border: 0.5px black solid;
+    
+    }
+    .regis{
+    height: 100px;
+    }
+    .regis_declare{
+    margin-left: 100px;
+    background-color: white;
+    width: 1000px;
+    height: 100px;
+    margin-bottom: 50px;
+    }
